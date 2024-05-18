@@ -1,7 +1,7 @@
 # DIPANKAR PAUL
 
 - Siliguri, West Bengal
-- +91-62967933960
+- +91-6296793396
 - dipankarpaul.dev@gmail.com
 - https://www.linkedin.com/in/iamdipankarpaul
 - https://github.com/dipankarpaul2k
