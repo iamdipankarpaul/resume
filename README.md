@@ -2,10 +2,10 @@
 
 - Siliguri, West Bengal
 - +91-6296793396
-- dipankarpaul.dev@gmail.com
-- https://www.linkedin.com/in/iamdipankarpaul
-- https://github.com/dipankarpaul2k
-- https://dipankarpaul.vercel.app
+- [dipankarpaul.dev@gmail.com](mailto:dipankarpaul.dev@gmail.com)
+- [https://www.linkedin.com/in/iamdipankarpaul](https://www.linkedin.com/in/iamdipankarpaul)
+- [https://github.com/dipankarpaul2k](https://github.com/dipankarpaul2k)
+- [https://dipankarpaul.vercel.app](https://dipankarpaul.vercel.app)
 
 ## ENTRY LEVEL FRONTEND DEVELOPER
 
@@ -17,7 +17,7 @@ A goal-oriented Entry Level Frontend Developer with knowledge of HTML, CSS, Java
 
 - A portfolio website designed and developed by me, Dipankar Paul
 - Projects page to view all projects
-- A detailed individual project page 
+- A detailed individual project page
 - Blogs page to access and read my latest blog posts
 - Tech: ReactJs, Mantine, Mantine Hooks, Gsap, Axios and Formspree
 
@@ -39,15 +39,19 @@ A goal-oriented Entry Level Frontend Developer with knowledge of HTML, CSS, Java
 
 ## EDUCATION
 
-Bachelor of Technology in Electrical Engineering
+**Bachelor of Technology in Electrical Engineering**
 Netaji Subhash Engineering College - GPA: 8.4
 Aug 2019 - Jul 2023
 
+**Higher Secondary**
+Falakata High School - Percentage: 86.60%
+Aug 2017 - Jul 2018
+
 ## SKILLS AND TECHNOLOGY
 
-- Languages: HTML/CSS, JavaScript
-- Frontend: ReactJs, Tailwind Css, Material UI, Mantine UI, Bootstrap
-- Backend: NodeJs, Express, MongoDB, Mongoose
-- State Management: Zustand, Redux toolkit
-- Others: Git, GitHub, Responsive Design
-- Soft Skills: Attention to Detail, Problem-Solving, Time Management, Communication and Collaboration, Continuous Learning and Improvement
+- **Languages**: HTML/CSS, JavaScript
+- **Frontend**: ReactJs, Tailwind Css, Material UI, Mantine UI, Bootstrap
+- **Backend**: NodeJs, Express, MongoDB, Mongoose
+- **State Management**: Zustand, Redux toolkit
+- **Others**: Git, GitHub, Responsive Design
+- **Soft Skills**: Attention to Detail, Problem-Solving, Time Management, Communication and Collaboration, Continuous Learning and Improvement
